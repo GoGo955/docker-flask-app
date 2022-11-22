@@ -1,6 +1,7 @@
 # ue_cld_programming
 ## Overview
 Repository prepared for Cloud Programming class (University of Economics in Katowice). It contains simple flask app, that displays parabola plot based on the parameters provided - otherwise, the default plot is displayed.
+
 In current version, all parameters are required to create a customized plot - supplementing them partially will display default plot.  
 
 ## Instructions
