@@ -30,6 +30,6 @@ http://localhost:5000/plot?a=2&b=7&c=3&xmin=-10&xmax=10&ymin=-5&ymax=5
 - to close, press ctrl+C in console.
 - to remove image, type in console:
 ```
-docker image rm task3_app:v1.0 
+docker image rm flask_plot_app:v1.0 
 ```
 
